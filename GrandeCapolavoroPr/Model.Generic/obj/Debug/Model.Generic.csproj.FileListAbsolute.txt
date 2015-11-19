@@ -1,0 +1,5 @@
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Generic\bin\Debug\Model.Generic.exe.config
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Generic\bin\Debug\Model.Generic.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Generic\bin\Debug\Model.Generic.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Generic\obj\Debug\Model.Generic.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Generic\obj\Debug\Model.Generic.pdb

@@ -1,0 +1,14 @@
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\GrandeCapolavoro.exe.config
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\GrandeCapolavoro.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\GrandeCapolavoro.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\Model.Disciplina.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\Model.Generic.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\ModelStudent.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\Repositories.Student.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\Model.Disciplina.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\Model.Generic.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\ModelStudent.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\Debug\Repositories.Student.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.csprojResolveAssemblyReference.cache
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.pdb

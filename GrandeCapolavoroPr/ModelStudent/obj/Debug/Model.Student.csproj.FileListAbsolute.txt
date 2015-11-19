@@ -1,0 +1,5 @@
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\bin\Debug\ModelStudent.exe.config
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\bin\Debug\ModelStudent.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\bin\Debug\ModelStudent.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\obj\Debug\ModelStudent.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\obj\Debug\ModelStudent.pdb

@@ -1,0 +1,8 @@
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\bin\Debug\Repositories.Facultate.exe.config
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\bin\Debug\Repositories.Facultate.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\bin\Debug\Repositories.Facultate.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\bin\Debug\Model.Facultate.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\bin\Debug\Model.Facultate.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\obj\Debug\Repositories.Facultate.csprojResolveAssemblyReference.cache
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\obj\Debug\Repositories.Facultate.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Facultate\obj\Debug\Repositories.Facultate.pdb

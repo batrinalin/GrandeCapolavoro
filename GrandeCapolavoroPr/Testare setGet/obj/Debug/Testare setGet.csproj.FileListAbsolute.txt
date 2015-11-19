@@ -1,8 +1,0 @@
-C:\Alin\Facultate\PSSC\Test\Testare setGet\Testare setGet\bin\Debug\Testare setGet.exe.config
-C:\Alin\Facultate\PSSC\Test\Testare setGet\Testare setGet\bin\Debug\Testare setGet.exe
-C:\Alin\Facultate\PSSC\Test\Testare setGet\Testare setGet\bin\Debug\Testare setGet.pdb
-C:\Alin\Facultate\PSSC\Test\Testare setGet\Testare setGet\obj\Debug\Testare setGet.exe
-C:\Alin\Facultate\PSSC\Test\Testare setGet\Testare setGet\obj\Debug\Testare setGet.pdb
-C:\Alin\Facultate\PSSC\Test\GrandeCapolavoroPr\Testare setGet\bin\Debug\Testare setGet.exe.config
-C:\Alin\Facultate\PSSC\Test\GrandeCapolavoroPr\Testare setGet\obj\Debug\Testare setGet.exe
-C:\Alin\Facultate\PSSC\Test\GrandeCapolavoroPr\Testare setGet\obj\Debug\Testare setGet.pdb

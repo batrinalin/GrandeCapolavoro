@@ -1,0 +1,5 @@
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Facultate\bin\Debug\Model.Facultate.exe.config
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Facultate\bin\Debug\Model.Facultate.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Facultate\bin\Debug\Model.Facultate.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Facultate\obj\Debug\Model.Facultate.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Facultate\obj\Debug\Model.Facultate.pdb
