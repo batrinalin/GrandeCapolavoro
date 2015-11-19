@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub, te saluta alin!!");
+            Console.WriteLine("Hello GitHub, buna ziua!!");
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");

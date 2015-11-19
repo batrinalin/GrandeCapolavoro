@@ -4,3 +4,9 @@ C:\Alin\Facultate\PSSC\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Co
 C:\Alin\Facultate\PSSC\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Alin\Facultate\PSSC\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Alin\Facultate\PSSC\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoro\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoro\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoro\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoro\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoro\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoro\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
