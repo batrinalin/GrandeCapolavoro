@@ -1,0 +1,8 @@
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\bin\Debug\Model.Disciplina.exe.config
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\bin\Debug\Model.Disciplina.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\bin\Debug\Model.Disciplina.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\bin\Debug\Model.Generic.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\bin\Debug\Model.Generic.pdb
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\obj\Debug\Model.Disciplina.csprojResolveAssemblyReference.cache
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\obj\Debug\Model.Disciplina.exe
+C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Model.Disciplina\obj\Debug\Model.Disciplina.pdb
