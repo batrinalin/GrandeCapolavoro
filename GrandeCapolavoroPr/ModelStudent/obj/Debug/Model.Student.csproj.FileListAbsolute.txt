@@ -3,3 +3,8 @@ C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\bin\Debug
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\bin\Debug\ModelStudent.pdb
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\obj\Debug\ModelStudent.exe
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\ModelStudent\obj\Debug\ModelStudent.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\ModelStudent\bin\Debug\ModelStudent.exe.config
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\ModelStudent\bin\Debug\ModelStudent.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\ModelStudent\bin\Debug\ModelStudent.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\ModelStudent\obj\Debug\ModelStudent.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\ModelStudent\obj\Debug\ModelStudent.pdb

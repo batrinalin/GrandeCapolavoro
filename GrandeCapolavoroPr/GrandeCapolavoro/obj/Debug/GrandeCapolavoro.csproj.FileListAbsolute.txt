@@ -12,3 +12,17 @@ C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\bin\D
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.csprojResolveAssemblyReference.cache
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.exe
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\GrandeCapolavoro.exe.config
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\GrandeCapolavoro.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\GrandeCapolavoro.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\Model.Disciplina.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\Model.Generic.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\ModelStudent.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\Repositories.Student.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\Model.Disciplina.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\Model.Generic.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\ModelStudent.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\bin\Debug\Repositories.Student.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.csprojResolveAssemblyReference.cache
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\GrandeCapolavoro\obj\Debug\GrandeCapolavoro.pdb

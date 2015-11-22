@@ -10,18 +10,9 @@ namespace Model.Disciplina
     public class Student
     {
 
-        //public NumarMatricol NumarMatricol { get; internal set; }
-
-        public NumeGeneric numeStudent { get; internal set; }
-       // public NumarMatricol numarMatricol { get; internal set;}
+        private NumeGeneric numeStudent;
         private NumarMatricol numarMatricol;
-
-        public NumarMatricol NumarMatricol
-        {
-            get { return numarMatricol; }
-            set { numarMatricol = value; }
-        }
-        public Nota NotaFinala {get; internal set;}
+        private Nota NotaFinala;
       
         internal Student(NumarMatricol numar,NumeGeneric nume)
         {
@@ -29,15 +20,31 @@ namespace Model.Disciplina
             this.numarMatricol = numar;
         }
 
+        public string returnareNumarMaricol()
+        {
+            return numarMatricol.Numar1;
+        }
+
         internal void notaDisciplina(Nota nota)
         {
             NotaFinala = nota;
         }
 
-        public void afisareStudent()
+        public void afisareNumeStudent()
         {
-            Console.WriteLine("Numele studentului este: "+numeStudent.Text);
+            Console.WriteLine("Numele studentului este: "+numeStudent.Nume);
         }
+
+        public void afisareNotaStudent()
+        {
+            Console.WriteLine("Nota studentului este: " + NotaFinala.Valoare);
+        }
+
+        public void afisareNumarMatricolStudent()
+        {
+            Console.WriteLine("Numele studentului este: " + numarMatricol.Numar1);
+        }
+
        
 
     }

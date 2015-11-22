@@ -15,8 +15,7 @@ namespace Model.Generic
             get { return _numar; }
             set { _numar = value; }
         }
-        //public string Numar { get { return _numar; } }
-
+        
         public NumarMatricol(string numar)
         {
             this._numar = numar;

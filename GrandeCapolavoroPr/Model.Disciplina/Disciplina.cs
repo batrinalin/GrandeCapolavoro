@@ -23,44 +23,48 @@ namespace Model.Disciplina
             this.nume = nume;
             this.id = id;
             _studentiInscrisi = new List<Student>(50);
-            
+
         }
 
 
-       public void InscriereStudent(Student student)
+        public void InscriereStudent(Student student)
         {
-            Console.WriteLine("\nS-a inscris in lista studentul cu numele: ");
-            student.afisareStudent();
-         //  Conso ". Si numar matricol: " + student.NumarMatricol);
+            Console.WriteLine("~~Se apeleaza InscriereStudent -dinsicplina~~");
             _studentiInscrisi.Add(student);
         }
 
-       public void afisareListaStudenti()
-       {
-           foreach (Model.Disciplina.Student index in _studentiInscrisi)
-           {
-               Console.WriteLine("\nNume student: " + index.numeStudent + ". Numar matricol: " + index.NumarMatricol);
-           }
-       }
-       public void NotaFinalaDisciplina(Model.Generic.NumarMatricol numarMatricol,Model.Generic.Nota nota)
-       {
-           foreach(Model.Disciplina.Student index in _studentiInscrisi)
-           {
-               if (index.NumarMatricol.Equals(numarMatricol))
-               {
-                   index.notaDisciplina(nota);
-               }
-           }
-       }
+        public void afisareListaStudenti()
+        {
+            Console.WriteLine("~~Se apeleaza afisareListaStudenti -dinsicplina~~");
+            foreach (Model.Disciplina.Student index in _studentiInscrisi)
+            {
+                index.afisareNumeStudent();
+                index.afisareNumarMatricolStudent();
+                index.afisareNotaStudent();
+            }
+        }
 
-       public Student CreeazaStudnet(string numarMatricol, string numeStudent)
-       {
-           
-           var student = new Student(new NumarMatricol(numarMatricol), new NumeGeneric(numeStudent));
-           //Console.WriteLine("\nS-a creeat studentul cu numele: " + student.numeStudent + " si numarul matricol: " + student.numarMatricol);
+        public void NotaFinalaDisciplina(Model.Generic.NumarMatricol numarMatricol, Model.Generic.Nota nota)
+        {
+            foreach (Model.Disciplina.Student index in _studentiInscrisi)
+            {
+                var nrMatric = index.returnareNumarMaricol();
 
-           return student;
-       }
+                if (nrMatric.Equals(numarMatricol.Numar1))
+                {
+                    index.notaDisciplina(nota);
+                }
+            }
+        }
+
+        public Student CreeazaStudnet(string numarMatricol, string numeStudent)
+        {
+
+            var student = new Student(new NumarMatricol(numarMatricol), new NumeGeneric(numeStudent));
+            //Console.WriteLine("\nS-a creeat studentul cu numele: " + student.numeStudent + " si numarul matricol: " + student.numarMatricol);
+
+            return student;
+        }
 
     }
 }

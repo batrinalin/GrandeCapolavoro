@@ -14,11 +14,12 @@ namespace Model.Disciplina
         {
 
         }
-      /* TODO trebuie implementat
-       * public Disciplina CreeazaDisciplina(string nume)
+    
+        public Disciplina CreeazaDisciplina ( string idGeneric, string nume )
         {
-            //var disciplina =new Disciplina();
+
+            var disciplina = new Disciplina(new Model.Generic.NumeGeneric(nume),new Model.Generic.IdGeneric(idGeneric));
+            return disciplina;
         }
-       * */
     }
 }

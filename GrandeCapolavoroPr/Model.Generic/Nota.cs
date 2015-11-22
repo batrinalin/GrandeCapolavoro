@@ -10,7 +10,13 @@ namespace Model.Generic
     {
 
         private decimal _valoare;
-        public decimal Valoare { get { return _valoare; } }
+
+        public decimal Valoare
+        {
+            get { return _valoare; }
+            set { _valoare = value; }
+        }
+       
 
         public Nota(decimal valoare)
         {

@@ -8,11 +8,11 @@ namespace Repositories.Disciplina
 {
     interface IDisciplinaRepository
     {
-        /*
-        void adaugareDisciplina(Model.Disciplina.Disciplina disciplina);
-        void actualizareDisciplina(Model.Disciplina.Disciplina disciplina);
-        void stergereDisciplina(Model.Disciplina.Disciplina disciplina);
-        void cautaDisciplina(Model.Disciplina.Disciplina disciplina);
-         */
+
+        void AdaugaDisciplina(Model.Disciplina.Disciplina disciplina);
+        void ActualizeazaDisciplina(Model.Disciplina.Disciplina disciplina);
+        void StergereDisciplina(Model.Disciplina.Disciplina disciplina);
+        void CautaDisciplina(Model.Disciplina.Disciplina disciplina);
+        
     }
 }

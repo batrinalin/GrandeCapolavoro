@@ -8,12 +8,17 @@ namespace Model.Generic
 {
     public class NumeGeneric
     {
-        private string _text;
-        public string Text { get{return _text;} }
+        private string nume;
 
+        public string Nume
+        {
+            get { return nume; }
+            set { nume = value; }
+        }
+       
         public NumeGeneric(string text)
         {
-            _text = text;
+            nume = text;
         }
     }
 }

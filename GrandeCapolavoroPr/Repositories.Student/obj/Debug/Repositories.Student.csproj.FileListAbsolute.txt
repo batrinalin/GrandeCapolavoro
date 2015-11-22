@@ -6,3 +6,11 @@ C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Student\b
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Student\obj\Debug\Repositories.Student.csprojResolveAssemblyReference.cache
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Student\obj\Debug\Repositories.Student.exe
 C:\Alin\Facultate\PSSC\Grande capolavoro\GrandeCapolavoro\Repositories.Student\obj\Debug\Repositories.Student.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\bin\Debug\Repositories.Student.exe.config
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\bin\Debug\Repositories.Student.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\bin\Debug\Repositories.Student.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\bin\Debug\ModelStudent.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\bin\Debug\ModelStudent.pdb
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\obj\Debug\Repositories.Student.csprojResolveAssemblyReference.cache
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\obj\Debug\Repositories.Student.exe
+C:\Users\Alin\Documents\GitHub\GrandeCapolavoro\GrandeCapolavoroPr\Repositories.Student\obj\Debug\Repositories.Student.pdb

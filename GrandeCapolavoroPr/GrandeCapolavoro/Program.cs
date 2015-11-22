@@ -15,40 +15,42 @@ namespace GrandeCapolavoro
     {
         static void Main(string[] args)
         {
+
+            //Creare 2 studenti (Model.Student Student)
             var student = new Model.Student.Student("101", "201", "batrin", "alin");
-            var student2 = new Model.Student.Student("102","202", "batrin", "alin");
+            var student2 = new Model.Student.Student("102","202", "batrin", "alex");
             var depozit = new StudentRepository();
 
+           
             
-            //Creare disciplina
+            //Creare disciplina (Model.Disciplina Disciplina)
             var numeDisciplina = new Model.Generic.NumeGeneric("Algebra");
             var idDisciplina = new Model.Generic.IdGeneric("12345");
 
-            //var numeStudent = new Model.Generic.NumeGeneric("Alin");
-            //var nrMatricol = new Model.Generic.NumarMatricol("123");
             string nrMatricol = "123";
-            string numeStudent = "alin:";
-            //var studentDisciplina = new Model.Disciplina.Student(nrMatricol,numeStudent);
+            string numeStudent = "alin";
+            decimal notaStudent = 1.2m;
+
+
+            //Creez nota (Model.Generic Nota) si nrMatricol (Model.Generic NumarMatricol pentru a creea entitatea student din Model.Disciplina Student
+            var nota = new Nota(notaStudent);
+            var matricol = new Model.Generic.NumarMatricol(nrMatricol);
+            
+            //Creez disciplina (Model.Disciplina Disciplina)
             var disciplina = new Model.Disciplina.Disciplina(numeDisciplina, idDisciplina);
+            //Creez studentul (Model.Disciplina Student)
+           
             var disc2 =disciplina.CreeazaStudnet(nrMatricol, numeStudent);
+            
             disciplina.InscriereStudent(disc2);
+            disciplina.NotaFinalaDisciplina(matricol,nota);
             disciplina.afisareListaStudenti();
            
 
             
             
             
-            /*
-            //Creare nota
-            decimal notaStudent = 5.6m;
-            var nota = new Model.Generic.Nota(notaStudent);
-            var studDisc = new Model.Disciplina.Student(numMatricol, numeGen);
-            disciplina.InscriereStudent(studDisc);
-            disciplina.adaugaNota(studDisc, nota);
 
-           // Console.WriteLine("Studentul din disciplina are numele: " + studDisc.NumeGeneric + ". \nNumar matricol" + studDisc.NumarMatricol + ". \nNota disciplina: " + studDisc.NotaDisciplina);
-           // disci.InscriereStudent()
-            */
             
 
 
